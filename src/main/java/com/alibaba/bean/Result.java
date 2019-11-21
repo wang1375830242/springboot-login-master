@@ -20,7 +20,7 @@ public class Result<T> {
     public String getMsg() {
         return msg;
     }
-
+//ashduhasoduhsaod
     public void setMsg(String msg) {
         this.msg = msg;
     }
